@@ -1,0 +1,20 @@
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\obj\Debug\Cafe_de_Flora.Dashboard.resources
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\obj\Debug\Cafe_de_Flora.Form1.resources
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\obj\Debug\Cafe_de_Flora.Form2.resources
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\obj\Debug\Cafe_de_Flora.Form3.resources
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\obj\Debug\Cafe_de_Flora.Form4.resources
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\obj\Debug\Cafe_de_Flora.Form5.resources
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\obj\Debug\Cafe_de_Flora.Properties.Resources.resources
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\obj\Debug\Cafe_de_Flora.splashscreen.resources
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\obj\Debug\Cafe_de_Flora.UC_PlaceOrder.resources
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\obj\Debug\Cafe de Flora.csproj.GenerateResource.cache
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\obj\Debug\Cafe de Flora.csproj.CoreCompileInputs.cache
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\bin\Debug\Cafe de Flora.exe.config
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\bin\Debug\Cafe de Flora.exe
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\bin\Debug\Cafe de Flora.pdb
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\bin\Debug\Guna.UI.dll
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\bin\Debug\Guna.UI2.dll
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\obj\Debug\Cafe de Flora.csproj.CopyComplete
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\obj\Debug\Cafe de Flora.exe
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\obj\Debug\Cafe de Flora.pdb
+C:\Users\alifa\source\repos\Cafe de Flora\Cafe de Flora\obj\Debug\Cafe de Flora.csproj.AssemblyReference.cache
